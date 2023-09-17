@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using CapaPresentacion;
 using Domain.Models;
@@ -14,9 +7,21 @@ namespace Presentation
 {
     public partial class Login : Form
     {
+        private int intentosFallidos = 0;
+        private bool cuentaBloqueadaTemp = false;
+        private bool cuentaBloqueadaPerm = false;
+        private Timer unlockTimer; // Temporizador para desbloqueo temporal
+        private Timer permanentLockTimer; // Temporizador para bloqueo permanente
+
         public Login()
         {
             InitializeComponent();
+            InitializeTimers();
+        }
+
+        private void Login_Load(object sender, EventArgs e)
+        {
+            lblError.Visible = false;
         }
 
         private void lblGoResgister_Click(object sender, EventArgs e)
@@ -27,21 +32,36 @@ namespace Presentation
             register.FormClosed += CloseForm;
         }
 
-        private void CloseForm(object sender, FormClosedEventArgs e)
+        private void InitializeTimers()
         {
-            this.Show();
-            lblError.Visible = false;
-            txtUsername.Focus();
-            txtUsername.Text = "";
-            txtPassword.Text = "";
+            // Configurar el temporizador para desbloquear después de 5 segundos
+            unlockTimer = new Timer();
+            unlockTimer.Interval = 5000; // 5 segundos en milisegundos
+            unlockTimer.Tick += UnlockTimer_Tick;
+
+            // Configurar el temporizador para el bloqueo permanente después de 10 intentos fallidos (24 horas en milisegundos)
+            permanentLockTimer = new Timer();
+            permanentLockTimer.Interval = 24 * 60 * 60 * 1000; // 24 horas en milisegundos
+            permanentLockTimer.Tick += PermanentLockTimer_Tick;
         }
 
-        private void Login_Load(object sender, EventArgs e)
+        private void UnlockTimer_Tick(object sender, EventArgs e)
         {
+            // Desbloquear la cuenta después de 5 segundos
+            cuentaBloqueadaTemp = false;
             lblError.Visible = false;
+            unlockTimer.Stop(); // Detener el temporizador
         }
 
-        int intentosFallidos = 0;
+        private void PermanentLockTimer_Tick(object sender, EventArgs e)
+        {
+            // Bloquear la cuenta permanentemente después de 10 intentos fallidos
+            cuentaBloqueadaPerm = true;
+            lblError.Text = "Cuenta bloqueada permanentemente.";
+            lblError.Visible = true;
+            btnLogin.Enabled = false; // Desactivar el botón de inicio de sesión
+            permanentLockTimer.Stop(); // Detener el temporizador permanente
+        }
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
@@ -91,5 +111,15 @@ namespace Presentation
             }
         }
 
+
+
+        private void CloseForm(object sender, FormClosedEventArgs e)
+        {
+            this.Show();
+            lblError.Visible = false;
+            txtUsername.Focus();
+            txtUsername.Text = "";
+            txtPassword.Text = "";
+        }
     }
 }
