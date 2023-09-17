@@ -1,0 +1,33 @@
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\Domain\bin\Debug\Domain.dll
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\Domain\bin\Debug\Domain.pdb
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\Domain\bin\Debug\Common.dll
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\Domain\bin\Debug\DataAccess.dll
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\Domain\bin\Debug\Common.pdb
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\Domain\bin\Debug\DataAccess.pdb
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\Domain\obj\Debug\Domain.dll
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\Domain\obj\Debug\Domain.pdb
+E:\tuto-login-n-capas-main\RegisterAndLoginNCapas\Domain\bin\Debug\Domain.dll
+E:\tuto-login-n-capas-main\RegisterAndLoginNCapas\Domain\bin\Debug\Domain.pdb
+E:\tuto-login-n-capas-main\RegisterAndLoginNCapas\Domain\bin\Debug\Common.dll
+E:\tuto-login-n-capas-main\RegisterAndLoginNCapas\Domain\bin\Debug\DataAccess.dll
+E:\tuto-login-n-capas-main\RegisterAndLoginNCapas\Domain\bin\Debug\Common.pdb
+E:\tuto-login-n-capas-main\RegisterAndLoginNCapas\Domain\bin\Debug\DataAccess.pdb
+E:\tuto-login-n-capas-main\RegisterAndLoginNCapas\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+E:\tuto-login-n-capas-main\RegisterAndLoginNCapas\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+E:\tuto-login-n-capas-main\RegisterAndLoginNCapas\Domain\obj\Debug\Domain.csproj.CopyComplete
+E:\tuto-login-n-capas-main\RegisterAndLoginNCapas\Domain\obj\Debug\Domain.dll
+E:\tuto-login-n-capas-main\RegisterAndLoginNCapas\Domain\obj\Debug\Domain.pdb
+D:\SENATI\C#\login_c#\tuto-login-n-capas-main\RegisterAndLoginNCapas\Domain\bin\Debug\Domain.dll
+D:\SENATI\C#\login_c#\tuto-login-n-capas-main\RegisterAndLoginNCapas\Domain\bin\Debug\Domain.pdb
+D:\SENATI\C#\login_c#\tuto-login-n-capas-main\RegisterAndLoginNCapas\Domain\bin\Debug\Common.dll
+D:\SENATI\C#\login_c#\tuto-login-n-capas-main\RegisterAndLoginNCapas\Domain\bin\Debug\DataAccess.dll
+D:\SENATI\C#\login_c#\tuto-login-n-capas-main\RegisterAndLoginNCapas\Domain\bin\Debug\Common.pdb
+D:\SENATI\C#\login_c#\tuto-login-n-capas-main\RegisterAndLoginNCapas\Domain\bin\Debug\DataAccess.pdb
+D:\SENATI\C#\login_c#\tuto-login-n-capas-main\RegisterAndLoginNCapas\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+D:\SENATI\C#\login_c#\tuto-login-n-capas-main\RegisterAndLoginNCapas\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+D:\SENATI\C#\login_c#\tuto-login-n-capas-main\RegisterAndLoginNCapas\Domain\obj\Debug\Domain.csproj.CopyComplete
+D:\SENATI\C#\login_c#\tuto-login-n-capas-main\RegisterAndLoginNCapas\Domain\obj\Debug\Domain.dll
+D:\SENATI\C#\login_c#\tuto-login-n-capas-main\RegisterAndLoginNCapas\Domain\obj\Debug\Domain.pdb

@@ -1,0 +1,27 @@
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\DataAccess\bin\Debug\Common.dll
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\DataAccess\bin\Debug\Common.pdb
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\DataAccess\obj\Debug\DataAccess.pdb
+E:\tuto-login-n-capas-main\RegisterAndLoginNCapas\DataAccess\bin\Debug\DataAccess.dll
+E:\tuto-login-n-capas-main\RegisterAndLoginNCapas\DataAccess\bin\Debug\DataAccess.pdb
+E:\tuto-login-n-capas-main\RegisterAndLoginNCapas\DataAccess\bin\Debug\Common.dll
+E:\tuto-login-n-capas-main\RegisterAndLoginNCapas\DataAccess\bin\Debug\Common.pdb
+E:\tuto-login-n-capas-main\RegisterAndLoginNCapas\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+E:\tuto-login-n-capas-main\RegisterAndLoginNCapas\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\tuto-login-n-capas-main\RegisterAndLoginNCapas\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+E:\tuto-login-n-capas-main\RegisterAndLoginNCapas\DataAccess\obj\Debug\DataAccess.dll
+E:\tuto-login-n-capas-main\RegisterAndLoginNCapas\DataAccess\obj\Debug\DataAccess.pdb
+D:\SENATI\C#\login_c#\tuto-login-n-capas-main\RegisterAndLoginNCapas\DataAccess\bin\Debug\DataAccess.dll
+D:\SENATI\C#\login_c#\tuto-login-n-capas-main\RegisterAndLoginNCapas\DataAccess\bin\Debug\DataAccess.pdb
+D:\SENATI\C#\login_c#\tuto-login-n-capas-main\RegisterAndLoginNCapas\DataAccess\bin\Debug\Common.dll
+D:\SENATI\C#\login_c#\tuto-login-n-capas-main\RegisterAndLoginNCapas\DataAccess\bin\Debug\Common.pdb
+D:\SENATI\C#\login_c#\tuto-login-n-capas-main\RegisterAndLoginNCapas\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\SENATI\C#\login_c#\tuto-login-n-capas-main\RegisterAndLoginNCapas\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\SENATI\C#\login_c#\tuto-login-n-capas-main\RegisterAndLoginNCapas\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+D:\SENATI\C#\login_c#\tuto-login-n-capas-main\RegisterAndLoginNCapas\DataAccess\obj\Debug\DataAccess.dll
+D:\SENATI\C#\login_c#\tuto-login-n-capas-main\RegisterAndLoginNCapas\DataAccess\obj\Debug\DataAccess.pdb
